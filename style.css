@@ -528,10 +528,10 @@ span {
 
 @media (max-width: 365px) {
     .home-img img {
-        width: 35vw;
+        width: 90vw;
     }
 
-    .footer- {
+    .footer-iconTop {
         flex-direction: column-reverse;
         text-align: center;
         margin-top: 2rem;
